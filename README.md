@@ -5,7 +5,7 @@ Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 ## Usage
 
 ```
-![](http://stars-badge.herokuapp.com/[username]/[reponame]/[metaname].svg)
+![](https://stars-badge.herokuapp.com/[username]/[reponame]/[metaname].svg)
 ```
 
 Meta Names:
@@ -20,37 +20,37 @@ Meta Names:
 
 ### Stars
 
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/stars.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/stars.svg)
 ```
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/stars.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/stars.svg)
 ```
 
 ### Forks
 
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/forks.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/forks.svg)
 ```
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/forks.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/forks.svg)
 ```
 
 ### Watchers
 
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
 ```
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
 ```
 
 ### Issues
 
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/issues.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/issues.svg)
 ```
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/issues.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/issues.svg)
 ```
 
 ### Last Pages Build
 
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
 ```
-![](http://stars-badge.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
+![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
 ```
 
 ## Heroku
