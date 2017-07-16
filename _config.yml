@@ -1,1 +1,8 @@
 theme: jekyll-theme-modernist
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Rakefile
+  - config.ru
+  - Procfile
