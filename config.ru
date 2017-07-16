@@ -1,2 +1,2 @@
-require "./badge"
-run Sinatra::Application
+require "./src/badge"
+run Badge
