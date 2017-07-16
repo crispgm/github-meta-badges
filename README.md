@@ -1,5 +1,7 @@
 # GitHub Meta Badges
 
+![](https://travis-ci.org/crispgm/github-meta-badges.svg)
+
 Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 
 ## Usage
@@ -8,7 +10,7 @@ Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 ![](https://github-meta-badges.herokuapp.com/[username]/[reponame]/[metaname].svg)
 ```
 
-Meta Names:
+Metadata Supported:
 
 * [stars](#stars)
 * [forks](#forks)

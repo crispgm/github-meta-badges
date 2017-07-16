@@ -6,6 +6,7 @@ class NoAccessTokenError < StandardError; end
 
 class Badge < Sinatra::Base
   before do
+    pass if request.path_info == "/"
     if access_token.empty?
       raise NoAccessTokenError, "No access token error."
     end
