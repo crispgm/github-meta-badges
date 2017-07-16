@@ -1,14 +1,16 @@
 # GitHub Meta Badges
 
+![](https://travis-ci.org/crispgm/github-meta-badges.svg)
+
 Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 
 ## Usage
 
 ```
-![](https://stars-badge.herokuapp.com/[username]/[reponame]/[metaname].svg)
+![](https://github-meta-badges.herokuapp.com/[username]/[reponame]/[metaname].svg)
 ```
 
-Meta Names:
+Metadata Supported:
 
 * [stars](#stars)
 * [forks](#forks)
@@ -20,37 +22,37 @@ Meta Names:
 
 ### Stars
 
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/stars.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/stars.svg)
 ```
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/stars.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/stars.svg)
 ```
 
 ### Forks
 
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/forks.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/forks.svg)
 ```
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/forks.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/forks.svg)
 ```
 
 ### Watchers
 
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
 ```
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/watchers.svg)
 ```
 
 ### Issues
 
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/issues.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/issues.svg)
 ```
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/issues.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/issues.svg)
 ```
 
 ### Last Pages Build
 
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
 ```
-![](https://stars-badge.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
 ```
 
 ## Heroku
