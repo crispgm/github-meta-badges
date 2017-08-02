@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Meta Badges",
+  "description": "Simple GitHub Metadata Badges (e.g. stars, issues, and more)",
+  "repository": "https://github.com/crispgm/github-meta-badges",
+  "keywords": ["github", "badges"]
+}

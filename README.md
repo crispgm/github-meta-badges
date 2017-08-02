@@ -57,6 +57,8 @@ Metadata Supported:
 
 ## Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/crispgm/github-meta-badges)
+
 ```
 $ heroku create your-app-name
 $ heroku git:remote -a your-app-name
