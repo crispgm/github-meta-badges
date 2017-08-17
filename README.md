@@ -1,6 +1,9 @@
 # GitHub Meta Badges
 
 ![](https://travis-ci.org/crispgm/github-meta-badges.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/stars.svg)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/language.svg?color=red)
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/license.svg)
 
 Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 
@@ -16,7 +19,11 @@ Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 * [forks](#forks)
 * [watchers](#watchers)
 * [issues](#issues)
+* [network](#network)
+* [subscribers](#subscribers)
+* [last-pushed](#last-pushed)
 * [last-pages-build](#last-pages-build)
+* [language](#language)
 * [license](#license)
 
 ### Customize Badge Name and Color
@@ -56,11 +63,39 @@ Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 ![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/issues.svg)
 ```
 
+### Network
+
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/network.svg)
+```
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/network.svg)
+```
+
+### Subscribers
+
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/subscribers.svg)
+```
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/subscribers.svg)
+```
+
+### Last Pushed
+
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pushed.svg)
+```
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pushed.svg)
+```
+
 ### Last Pages Build
 
 ![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
 ```
 ![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
+```
+
+### Language
+
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/language.svg)
+```
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/language.svg)
 ```
 
 ### License
