@@ -79,7 +79,7 @@ class Badge < Sinatra::Base
 
   get "/:user/:repo/language.svg" do
     repo = @client.repository("#{params['user']}/#{params['repo']}")
-    name_and_color = get_name_and_color(params, {:name => "license", :color => "blue"})
+    name_and_color = get_name_and_color(params, {:name => "language", :color => "blue"})
     fetch_image(name_and_color[:name], repo.language, name_and_color[:color])
   end
 
