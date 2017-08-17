@@ -10,13 +10,21 @@ Simple GitHub Metadata Badges (e.g. stars, issues, and more)
 ![](https://github-meta-badges.herokuapp.com/[username]/[reponame]/[metaname].svg)
 ```
 
-Metadata Supported:
+### Metadata Supported
 
 * [stars](#stars)
 * [forks](#forks)
 * [watchers](#watchers)
 * [issues](#issues)
 * [last-pages-build](#last-pages-build)
+* [license](#license)
+
+### Customize Badge Name and Color
+
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/stars.svg?name=AwesomeStargazers&color=green)
+```
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/stars.svg?name=AwesomeStargazers&color=green)
+```
 
 ## Examples
 
@@ -53,6 +61,13 @@ Metadata Supported:
 ![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
 ```
 ![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/last-pages-build.svg)
+```
+
+### License
+
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/license.svg)
+```
+![](https://github-meta-badges.herokuapp.com/crispgm/github-meta-badges/license.svg)
 ```
 
 ## Heroku
